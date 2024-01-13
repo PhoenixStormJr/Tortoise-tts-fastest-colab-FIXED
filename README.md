@@ -9,3 +9,9 @@ Original Application Link:
 My Google Colab implementation of the application:
 
 [tortoise_tts_faster2_longer_alpha_update3.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Tortoise-tts-fast-longer/blob/main/tortoise_tts_faster2_longer_alpha_update3.ipynb)
+
+
+My Repository of the Google Colab application:
+
+[PhoenixStormJr/Tortoise-tts-fast-longer](https://github.com/PhoenixStormJr/Tortoise-tts-fast-longer)
+
